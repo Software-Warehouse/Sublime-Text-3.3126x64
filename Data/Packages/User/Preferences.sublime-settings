@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	"font_size": 13.0,
+	"ignored_packages":
+	[
+		"DocBlockr",
+		"Vintage"
+	],
+	"theme": "Soda Dark 3.sublime-theme",
+	"update_check": false,
+	"word_wrap": "auto"
+}

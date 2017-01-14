@@ -1,0 +1,1294 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3126,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 541.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 60.0,
+				"last_filter": "evernote:new empty note",
+				"selected_items":
+				[
+					[
+						"evernote:new empty note",
+						"Evernote: New empty note"
+					],
+					[
+						"evernote",
+						"Evernote: List recent notes"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Add Channel→添加资源库链接"
+					],
+					[
+						"verilog",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"i",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 386.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/05 实验室/10 李嘉锋老师/05 新版周报/第11周/二分频.v",
+				"/D/Program Files/Sublime Text 3.3126x64/Data/Packages/User/Evernote.sublime-settings",
+				"/E/Hardware/ISE/ISE13.3.txt",
+				"/D/Win7桌面/新建文本文档 (2).txt",
+				"/D/Win7桌面/新建文本文档.txt",
+				"/D/Program Files (x86)/XMindX7/readme.txt",
+				"/F/07 学习相关/02 计算机相关/05 mindmanager/中文模版90个/模板汉化说明.txt",
+				"/D/report_data2.txt",
+				"/D/Win7桌面/xmind-7-V3.6.1 中文破解版/序列号.txt",
+				"/H/其他/Readme.txt",
+				"/E/eula.1028.txt",
+				"/F/05 实验室/20 其他/其他/课件/邮箱.txt",
+				"/F/05 实验室/10 李嘉锋老师/培训资料/Xilinx ISE14.4（ISE、Vivado、Vivado HLS）全部License/readme.txt",
+				"/E/eula.1031.txt",
+				"/D/Win7桌面/新建文件夹 (4)/[说明].txt"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ever",
+						"D:\\Program Files\\Sublime Text 3.3126x64\\Data\\Packages\\User\\Evernote.sublime-settings"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 191.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 943.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bps_cl",
+						"bps_clk_r"
+					],
+					[
+						"re",
+						"red"
+					],
+					[
+						"clk",
+						"clk_div2"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"bak",
+						"background-color"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "`timescale 1ns / 1ps\n//////////////////////////////////////////////////////////////////////////////////\n// Company: \n// Engineer: \n// \n// Create Date:    10:40:58 01/12/2017 \n// Design Name: \n// Module Name:    bps_generate \n// Project Name: \n// Target Devices: \n// Tool versions: \n// Description: \n//\n// Dependencies: \n//\n// Revision: \n// Revision 0.01 - File Created\n// Additional Comments: \n//\n//////////////////////////////////////////////////////////////////////////////////\nmodule bps_generate(clk,rst,bps_start,bps_clk\n    );\n\n\tinput clk;\n\tinput rst;\n\tinput bps_start;\n\n\toutput bps_clk;\n\n\tparameter CNT_NUM = 512;\n\tparameter CNT_NUM_2 = 256;\n\n\treg[15:0] cnt;\n\talways @(posedge clk or negedge rst) begin\n\t\tif (!rst) \n\t\t\tcnt <= 16'b0;// reset\n\t\telse if (cnt == CNT_NUM)\n\t\t\tcnt <= 16'b0;\n\t\telse if (bps_start)\n\t\t\tcnt <= cnt + 1'b1;\n\t\telse cnt <= 16'b0; \n\tend\n\n\treg bps_clk_r;\n\talways @(posedge clk or negedge rst) begin\n\t\tif (!rst) \n\t\t\tbps_clk_r <= 1'b0;\n\t\telse if (cnt == CNT_NUM_2)\n\t\t\tbps_clk_r <= 1'b1;\n\t\telse bps_clk_r <= 1'b0;\n\tend\n\tassign bps_clk = bps_clk_r;\nendmodule\n",
+					"file": "/D/Win7库文件/我的文档/Sublime document/练习.v",
+					"file_size": 2348,
+					"file_write_time": 131282406657250702,
+					"settings":
+					{
+						"buffer_size": 1080,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "module tx(\ninput clk,\ninput rst_n,\ninput bps_clk,\ninput rx_done,\ninput[7:0] data,\noutput bps_start,\noutput txd\n);\n\nreg bps_start_r;\n\nalways @(posedge clk or negedge rst_n)\nbegin\n if(!rst_n)\n  bps_start_r <= 1'b0;\n else if(rx_done)\n    bps_start_r <= 1'b1;\n else if(state == 4'd11)\n    bps_start_r <= 1'b0;\nend\n\nassign bps_start = bps_start_r;\n\nreg[7:0] tx_data;\n\nalways @(posedge clk or negedge rst_n)\nbegin\n if(!rst_n) \n  tx_data <= 8'b0;\n else if(rx_done)\n  tx_data <= data;\nend\n\nreg[3:0] state;\n\nalways @(posedge clk or negedge rst_n)\nbegin\n if(!rst_n)\n  state <= 4'b0;\n else if(bps_clk)\n begin\n  case(state)\n   4'd0: state <= 4'd1;\n   4'd1: state <= 4'd2;\n   4'd2: state <= 4'd3;\n   4'd3: state <= 4'd4;\n   4'd4: state <= 4'd5;\n   4'd5: state <= 4'd6;\n   4'd6: state <= 4'd7;\n   4'd7: state <= 4'd8;\n   4'd8: state <= 4'd9;\n   4'd9: state <= 4'd11;\n  // 4'd10: state <= 4'd11;\n   4'd11: state <= 4'b0;\n   default: state <= 4'b0;\n  endcase\n end\nend\n\n\nreg txd_r;\n\nalways @(posedge clk or negedge rst_n)\nbegin\n if(!rst_n)\n  txd_r <= 1'b1;\n else if(bps_clk)\n begin\n  case(state)\n   4'd1: txd_r <= 1'b0;\n   4'd2: txd_r <= tx_data[0];\n   4'd3: txd_r <= tx_data[1];\n   4'd4: txd_r <= tx_data[2];\n   4'd5: txd_r <= tx_data[3];\n   4'd6: txd_r <= tx_data[4];\n   4'd7: txd_r <= tx_data[5];\n   4'd8: txd_r <= tx_data[6];\n   4'd9: txd_r <= tx_data[7];\n  // 4'd10: txd_r <= 1'b1; //crc\n   4'd11: txd_r <= 1'b1; //stop\n  endcase\n end\nend\n\nassign txd = txd_r;\n\nendmodule\n",
+					"settings":
+					{
+						"buffer_size": 1459,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "---\ntitle: 硬件培训_实验1_嵌入式环境搭建\nnotebook: 06 Verilog\ntags:自己写的东西\n---\n\n*Design Name：嵌入式环境搭建*\n\n*Project Name：实现二分频电路*\n\n*Tool Version：ISE 14.3 + Win7 64位 + 12G内存*\n\n> 里面包含了一些平常用到的实例，然后自己加的备注\n\n## 1 首先是设计文件和激励文件的撰写\n\n### 1.1 首先是设计文件\n\n```Verilog\nmodule top(clk,rst,clk_div2)//这里定义了一个名为top的模块\n    input clk,rst;//定义：clk、rst为输入\n    output clk_div2;//定义：clk_div2为输出\n    reg[15:0] count = 1'b0;//定义了一个大小为16位的计数器count\n    assign clk_div2 = count[0];//分配count[0]给clk_div2f\n    always @(posedge clk)//一旦clk信号的上升沿出现，则执行下面\n        begin            //begin end 相当于花括号，把多条语句包含进来\n            if(!rst)     //如果rst是0则执行\"count <= 1'b0\"\n                count <=1'b0;\n            else         //否则的话，执行\"count <=count + 1'b1\"\n                count <=count + 1'b1;\n        end\nendmodule\n```\n\n#### 1.1.1 关于assign\n> 语法：`assign <寄存器类型变量> = <赋值表达式>;`\n> \n> 比如：`assign clk_div2=count[0]`表示把count[0]中的数赋值给clk_div2\n\n#### 1.1.2 关于always\n> always所包括的所有的行为语句共同构成了一个always语句块，这个语句块从仿真的0时刻开始执行其中的行为语句，当最后一条语句执行完毕之后，重新从第一条语句开始读取，像这样循环往复，直到整个仿真的结束。所以，always常常用于一组需要反复运行的活动，比如时间信号的发生，或者是每半个时钟周期时钟信号翻转一次这样的。\n\n因此：\n> 从c语言的角度看，always就像是for循环一样。\n\n***\n#### 1.1.3 书上说的\n> always过程快是由always过程语句以及语句块组成的，语法格式如下\n\n```\nalways @ <敏感信号表达式>\n    语句块\n其中语句块的格式为：\n    <块定义语句1>\n    时间控制1   行为语句1;\n    ...\n    时间控制n   行为语句n;\n    <块定义语句2>\n```\n\n其中，`@ <敏感信号表达式>`可有可无，如果有敏感事件的话，就可以加上，表示这个always语句是由这个敏感事件所触发的。\n\n> <块定义语句1>和<块定义语句2>构成了一组块定义语句，它们可以是“begin-end”或者是“fork-join”\n\n行为语句包括：\n1. 过程赋值语句\n2. 过程连续赋值语句\n3. if条件分支语句\n4. case条件分支语句\n5. 循环控制语句（forever、repeat、while、for循环控制语句）\n6. wait等待语句\n7. disable中断语句\n8. 事件触发语句\n9. 任务调用语句\n下面对于上面这个程序进行大致说明\n> 首先我们定义了3个参数，clk,rst,clk_div2，然后我们定义clk和rst为输入，clk_div2为输出，然后定义一个大小为16位的计数器，将这个计数器的最末位赋值给clk_div2，接着如果clk信号的上升沿出现了，就执行always中的语句，即如果rst为0的话，将0赋给count，如果rst为1的话，就让count+1，事实上，count的初始值为0，加了一次之后，变为1，再加一次之后变为10，此时因为clk_div2的值是count的第一位，所以此时clk_div2为0.\n\n### 1.2 下面是第一个实例的激励文件\n下面就是第一个实例的激励文件：\n\n```verilog\nmodule top1;\n\n    // Inputs\n    reg clk;\n    reg rst;\n\n    // Outputs\n    wire clk_div2;\n\n    // Instantiate the Unit Under Test (UUT)\n    top uut (\n        .clk(clk), \n        .rst(rst), \n        .clk_div2(clk_div2)\n    );\n\n    initial \n    begin\n        // Initialize Inputs\n        clk = 0;\n        rst = 0;\n\n        // 从这里往下是自己写的\n\n        #30 rst = 1;    //30个时间单位之后，rst为1\n        forever         //然后一直保持\n        #20 clk = ~clk; //20个单位之后clk翻转    \n    end\n    \n    always #20 clk = ~clk;//这一句和前面的forever #20 clk=~clk;是实现的相同的功能\nendmodule\n```\n\n首先解释一下什么是激励文件\n> 根据书上的定义：在完成工程的设计后，通常要对设计的正确性进行测试，这就需要对设计文件施加激励，通过检查其输出来验证功能的正确性。**完成测试功能的模块称为激励文件**\n\n通常需要将激励文件与设计文件**分开**设计。**激励文件**一般称为**测试台testbench**。\n\n**讲一下里面的一些关键词的用法**\n\n#### 1.2.1 initial\n[initial介绍](https://app.yinxiang.com/shard/s70/nl/14488760/2c84df11-4725-4d9d-a944-2f0c8b9e47fd)\n\n> initial里面的语句是顺序运行的\n\n#### 1.2.2 always与initial的不同点\n> always和initial的不同点在于，initial语句只执行一次，而always语句则是不断地重复执行，直到仿真过程结束。\n\n#### 1.2.3 forever\nforever与always这两者的功能其实是差不多的，比如说用这两个关键词生成时钟\n\n首先是forever\n\n```verilog\ninitial \nforever\nbegin\n\t#0 clk <= 0;\n\t#5 clk <= 1;\n\t#5 clk <= 0;\nend\n```\n\n然后是always\n\n```verilog\ninitial\nbegin\n\tclk = 0;\nend\nalways\nbegin\n\t#5 clk=~clk;\nend\n```\n\n**说明：**\nforever 意思为保持，它所保持的是它下面的那一条语句，而不是说上面那条语句完了，然后一直保持。但是他与always还是有区别的，forever循环语句常用于产生周期性的波形，用来作为仿真测试信号。<font color=\"red\">**它与always语句不同之处在于不能独立写在程序中，而必须写在initial块中。**</font>\n\n#### 1.2.4 testbench的基本结构\n\n```\nmodule test_bench;\n    信号或变量定义说明;\n    使用initial或always语句来产生激励波形;\n    实例化设计模块;\n    监控和比较输出响应;\nendmodule\n```\n\n常用的激励信号通常会包括：**时钟信号**和**复位信号**\n\n#### 1.2.5 普通时钟信号\n\n> 普通时钟信号就是占空比为50%的时钟信号。\n\n##### （1） 使用initial生成时钟信号\n\n```verilog\nparameter period = 20;\nreg clk;\ninitial         //产生时钟信号，并且每隔10个时间单位就翻转一次\nbegin\n    clk = 1'b0;\n    forever\n        #(period/2) clk=~clk;\nend\n```\n\n##### （2） 使用always生成时钟信号\n\n```verilog\nparameter period = 20;\nreg clk;\ninitial clk=1'b0;\nalways #(peiod/2) clk=~clk;\n```\n\n<font color=\"red\">**一定要给时钟信号赋初值，因为信号的默认值为z**</font>\n\n## 2 TOP文件和UCF文件的生成\n\n按照培训大纲上所说：\n\n> 连接FPGA 仿真器，打开ISE软件，进行连接测试，如果下载线正常识别FPGA 型号，表示硬件开发环境搭建成功。新建工程，然后选择FPGA型号、系列、编程语言、速度等选项，添加TOP文件和UCF文件，Verilog逻辑实现二分频电路，即CLK_OUT=CLK_IN/2，编译程序并生成BIT 文件，在线烧写BIT文件，使用示波\n器测量时钟输出频率，并与晶振始终比对。\n\n### 2.1 首先是TOP文件\n\n<font color=\"red\"> TOP文件就是顶层文件，也就是之前的那个设计文件.v </font>\n\n### 2.2 然后是UCF文件\n\nFPGA中的约束文件共有三种：\n\n- 用户设计文件（UCF文件）\n- 网表约束文件（NCF文件）\n- 物理约束文件（PCF文件）\n\n这三者的关系为：用户在设计输入阶段编写UCF文件，然后UCF文件和设计文件综合后生成NCF文件，最后再经过实现后生成PCF文件。UCF是用户输入的，而NCF是由综合工具自动生成的，当两者发生冲突时，以UCF为准。\n\n约束文件的建立有两种，一种是**通过新建**方式，一种是利用**过程管理器**完成。\n\nUCF中描述引脚分配的语法是\n\n``` verilog\nNET \"端口名称\" LOC = pin num;//pin num是引脚编号\n```\n\n#### 2.2.1  通过新建方式\n\n在sources窗口，单击鼠标右键，选择New Source，然后选择Implementation Constraints File，之后输入UCF的文件名，比如ceshi_ucf，然后点击next按钮、finish即可完成UCF文件的创建。\n\n#### 2.2.2 通过过程管理器\n\n在Sources for窗口的下拉菜单选择 Synthesis/Implementation ，然后在Processes窗口展开User Constraints，双击下面的Create Timing Constraints，这样就可以打开Constraints Editor约束文件编辑器。打开之后，就可以直接输入引脚编号进行引脚分配了。\n\n\n> UCF其实就是将之前top文件中写的那些输入、输出端口与实际的PCB板中的FPGA引脚对应起来。比如这个二分频，UCF文件中一共需要写三个。输入、输出、重置。\n\n下面是该UCF内的三行语句：\n\n```verilog\n\nNET \"clkout\" LOC = AC6;// 将FPGA的AC6引脚分配给clkout，作为输出引脚\nNET \"clk\" LOC = C14;// C14是时钟：PCB上写着CLKIN\nNET \"rst\" LOC = D2;// 这是复位按钮\n\n```\n\n写UCF文件的思想就是，首先找到FPGA中的时钟，本次用的时钟是59MHz，找到时钟对应的引脚之后，将它与我之前写的那个TOP文件中的clk（时钟输入）对应起来，时钟的输入解决之后，再解决输出问题，这里我随便选了一个引脚AC6（也就是PCB图左下角的那一排口）作为输出引脚，然后与TOP文件中的clkout对应起来，这样如果二分频实现了之后，就可以将分完的频（59除以2）通过clkout引脚显示出来，**那么怎么显示呢，**由于选择了AC6引脚作为输出，将探针一端接入示波器，另一端放到AC6的位置，这样就会发现分完的频率通过AC6在示波器上显示了出来。\n\n### 2.3 BIT文件生成\n\n在语法检查没有错误之后，双击Processes窗口下的：Generate Programming File选项，就会在项目的目录下面生成.bit文件。\n\n生成完.bit文件之后，就可以按照培训大纲中所说的，在线烧写BIT文件，然后可以通过示波器测量时钟的输出频率了。\n\n### 2.4 如何烧写\n\n从开始菜单找到iMPACT，单击打开，出现下图：\n\n![](http://p1.bqimg.com/567571/99afb56174a5861b.jpg)\n\n点击OK，进入下一步：<br></br>\n\n![](http://p1.bqimg.com/567571/ed9a4ca5e0b6d9f1.jpg)\n\n添加Bit 文件,右键单击xc4vsx55，选中Program 即可完成烧写。\n\n**<font color=\"red\" size=\"6\">至此，第一个实验结束</font>**",
+					"settings":
+					{
+						"buffer_size": 5692,
+						"line_ending": "Windows",
+						"name": "Evernote: 硬件培训_实验1_嵌入式环境搭建",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 硬件培训_实验2_串口通信\nnotebook: 06 Verilog\ntags:自己写的东西\n---\n\n### 串口通信\n\n#### 串口通信协议\n\n> 所谓通信协议是指通信双方的一种约定。约定对数据格式、同步方式、传送速度、传送步骤、纠错方式以及控制字符定义等问题做出统一规定，通信双方必须共同遵守。\n\n对于一个设备来说，要接收和发送串行通信的数据，需要一个器件将串行的数据转换为并行的数据以便于处理器进行处理，这个器件就是UART（Universal Asynchronous Receiver/Transmitter）通用异步收发器。作为接口的一部分，UART提供以下功能：\n\n1. 将由计算机内部传送过来的并行数据转换为输出的串行数据流；\n2. 将计算机外部传来的串行数据转换为**字节**，供计算机内部使用并行数据的器件使用；\n3. 在输出的串行数据流中加入**奇偶检验位**，并对外部接收的数据流进行奇偶检验；\n4. 在输出数据流中加入启停标志，并从接收数据流中**删除启停标记**。\n\n\n串口通信的数据格式：\n\n![](https://d17oy1vhnax1f7.cloudfront.net/items/0p1z190Z221W140M363Y/2.jpg?v=ed775814)\n\n<br></br>\n\n<img width=\"600\" src=\"https://d17oy1vhnax1f7.cloudfront.net/items/1p122h1x0O0h3J1n161K/1.jpg?v=6ee35ad3\"></img>\n\n\n首先看一下我们这个板子的**电平转换芯片**\n\n![电平转换芯片](https://d17oy1vhnax1f7.cloudfront.net/items/0U47450Z370A1B1A1r1h/4.jpg?v=e4c1fff3)\n\n我们这个开发板的电平转换芯片为MAX3462，所以先下载3462的datasheet。如下图：\n\n![MAX3462电平转换芯片](https://d17oy1vhnax1f7.cloudfront.net/items/3l1g0K0h3Y0X3m3P182O/3.jpg?v=8ffe423d)\n\n我们这个板子的时钟是59MHz的。\n\n总体设计思想是：\n\nPC发送数据，由MAX3462完成RS-232电平到TTL电平的转换，FPGA内部的RXD模块负责转换后串行数据的接收，数据处理单元对接收数据进行处理，处理完成后将数据暂存于FIFO中，TDX读取暂存数据，并按照通信协议把数据发给MAX3462反馈给PC，分析数据是否符合要求，从而验证整个系统设计的合理性。\n\n之前一直有一个问题，就是波特率到底有什么用，因为看了下面这个帧格式，并没有发现控制传输速度的地方。\n\n<img width=\"600\" src=\"https://github.com/ma3252788/My-Image-Bed/raw/master/%E7%AC%94%E8%AE%B0%E7%85%A7%E7%89%87/FPGA%E4%B8%B2%E5%8F%A3%E8%B0%83%E8%AF%95.bmp\"></img>\n\n> 波特率始终并没有表现在传输线上，它其实是用来指示我们每采样一个或者发送一个**数据位**的速度的。比如说，我们定义一个波特率时钟为115200，那么我们用这个时钟把数据串行一个一个的打出去，接收端只需要**匹配一个相同的时钟**，一个一个的数据位接收进来，数据传输就可以了。\n\n对数据接收来说，一旦检测到起始位，就打开波特率时钟，等数据接收完成，启动一次数据传输，一帧数据传输完毕，关闭波特率时钟，然后标志位关闭，避免重复传输。\n\n在我们这个项目中，主模块是top，它包含四个子模块，分别是接收模块uart_receive、接受模块的波特率时钟div_1_8m、发送模块uart_send、发送模块的波特率时钟div_baud。\n\n> 这里面的发送和接收都是对FPGA而言的！\n\n```Verilog\n\nmodule top(clk59m,rst,txd,rxd,send_over,dout);\n\ninput clk59m;\ninput rst;\ninput rxd;\n\noutput txd;\noutput send_over;\noutput dout;\n\nwire txd;\nwire rxd;\n//产生采样频率模块\nwire clk1_8m;\t\t\t\t\t//时钟连线\n\ndiv_1_8m div_1_8m1 (\n\t\t\t\t\t\t\t\t.clk59m(clk59m), \n\t\t\t\t\t\t\t\t.clk1_8m(clk1_8m), \n\t\t\t\t\t\t\t\t.rst(rst)\n\t\t\t\t\t\t\t\t);\n\n//产生发送模块波特率\nwire clk_baud;\ndiv_baud div_baud1 (\n\t\t\t\t\t\t\t\t .clk1_8m(clk1_8m), \n\t\t\t\t\t\t\t\t .clk_baud(clk_baud), \n\t\t\t\t\t\t\t\t .rst(rst)\n\t\t\t\t\t\t\t\t );\n//由于每有数据产生，所以手动编写数据\nwire wrn;\nwire rdn;\nwire send_over;\nwire data_ready;\nwire [7:0] dout;\nwire [11:0] addra_cnt;\nwire [7:0] douta;\n\nwire [7:0] din;\n\nuart uart1 (\n    .clk(clk1_8m), \n    .clk_baud(clk_baud), \n    .rst(rst), \n    .rxd(rxd), \n    .din(din), \n    .wrn(wrn), \n    .txd(txd), \n    .rdn(rdn), \n    .dout(dout), \n    .data_ready(data_ready), \n    .send_over(send_over)\n    );\nendmodule\n```\n\n通常，我们在主模块top中不会写具体的代码，因为主模块的功能是将各个子模块连接在一起，这样比较有利于代码的维护。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+					"settings":
+					{
+						"buffer_size": 2629,
+						"line_ending": "Windows",
+						"name": "Evernote: 硬件培训_实验2_串口通信",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "`timescale 1ns / 1ps\n//////////////////////////////////////////////////////////////////////////////////\n// Company: \n// Engineer: \n// \n// Create Date:    10:53:47 11/19/2016 \n// Design Name: \n// Module Name:    top \n// Project Name: \n// Target Devices: \n// Tool versions: \n// Description: \n//\n// Dependencies: \n//\n// Revision: \n// Revision 0.01 - File Created\n// Additional Comments: \n//\n//////////////////////////////////////////////////////////////////////////////////\nmodule top(clk59m,rst,txd,rxd,send_over,dout);\n\ninput clk59m;\ninput rst;\ninput rxd;\n\noutput txd;\noutput send_over;\noutput [7:0]dout;\n\n\n\n//产生采样频率模块\nwire clk1_8m;\t\t\t\t\t//时钟连线\ndiv_1_8m div_1_8m1 (\n\t\t\t\t\t\t\t\t.clk59m(clk59m), \n\t\t\t\t\t\t\t\t.clk1_8m(clk1_8m), \n\t\t\t\t\t\t\t\t.rst(rst)\n\t\t\t\t\t\t\t\t);\n\n//产生发送模块波特率\nwire clk_baud;\ndiv_baud div_baud1 (\n\t\t\t\t\t\t\t\t .clk1_8m(clk1_8m), \n\t\t\t\t\t\t\t\t .clk_baud(clk_baud), \n\t\t\t\t\t\t\t\t .rst(rst)\n\t\t\t\t\t\t\t\t );\n\t\t\t\t\t\t\t\t \n\n//串口模块\nwire txd;\nwire rxd;\nwire wrn;\nwire rdn;\nwire send_over;\nwire data_ready;\nwire [7:0] dout;\nreg [0:3] cnt;\n\nassign rdn = 1'b0;\nassign wrn = data_ready;\n\nuart uart1 (\n\t\t\t .clk(clk1_8m), \n\t\t\t .clk_baud(clk_baud), \n\t\t\t .rst(rst), \n\t\t\t .rxd(rxd), \n\t\t\t .din(dout), \n\t\t\t .wrn(wrn), \n\t\t\t .txd(txd), \n\t\t\t .rdn(rdn), \n\t\t\t .dout(dout), \n\t\t\t .data_ready(data_ready), \n\t\t\t .send_over(send_over)\n\t\t\t );\n\n\nendmodule\n",
+					"file": "/F/05 实验室/top.v",
+					"file_size": 1408,
+					"file_write_time": 131288530514470373,
+					"settings":
+					{
+						"buffer_size": 1305,
+						"line_ending": "Windows",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 学习FPGA笔记\nnotebook: 14 人工智能\ntags:[\"自己写的东西\"]\n---\n\n\n\n",
+					"settings":
+					{
+						"buffer_size": 61,
+						"line_ending": "Windows",
+						"name": "Evernote: 学习FPGA笔记",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 《谷歌8年无人车项目遭遇急刹车，或不再自主造车》笔记\ntags: [\"自己写的东西\", \"z卓老师推荐文章总结\"]\nnotebook: 14 人工智能\n---\n\n本文主要讲了两点：\n- 谷歌在无人驾驶汽车领域的研究方向发生变化\n- 后起之秀Uber在目前遇到的困境\n\n### 谷歌方面\n谷歌公司下属的公司Alphabet以后将不再自主的开发自动驾驶汽车，而是转变思路**与传统汽车厂商合作**，把谷歌的传感器融入到传统汽车中。\n\n在今年5月的时候，谷歌与菲亚特公司达成合作，共同开发自动驾驶汽车，其中谷歌提供激光雷达、雷达和相机技术。\n\n#### 谷歌面临的困境\n\n1. 激烈的市场竞争\n谷歌在自动驾驶领域已经坚持了8年，但是现在越来越多的公司进入智能驾驶领域，特别是Uber，对谷歌的冲击很大。\n2. 人才的流失\n长期领导谷歌自动驾驶团队的Chris Urmson已经离开了谷歌，谷歌地图的负责人Lior Ron也离开了谷歌，创立了Otto无人驾驶卡车，后Otto被Uber收购，等于变相的加入了Uber。\n3. 商业化的压力\n谷歌有个项目叫Chauffeur，这个项目激发了许多的工程师进行挑战，并且激发了**几乎所有主要**的汽车制造商制造无人车的想法，Uber的CEO在试驾了谷歌的无人车之后，接着就决定Uber也开发自动驾驶汽车技术，并且从CMU挖来了大量的人才。\n\n谷歌自己制造了一辆名为Koala的无方向盘车，目的是为了告诉世人：**没有方向盘的汽车是可能的**。\n\n谷歌的下一车型是将自己的驾驶设备和技术直接装到已有的汽车中，以完成改造。当然，这个决策在公司内部引起了极大的讨论。\n\n#### 谷歌的理想与现实\n**想把技术变现，真的挺难。**\n\n### Uber方面\nUber最近也面临着人才流失的困境。\n- 9月份，机器学习部门主管Marcos Campos离开Uber，加入Bonsai的AI部门；\n- 在Uber收购Otto之后，Brett Browning、Drew Bagnell以及Peter Rander都离开了Uber；\n- 在Uber收购了Geometric Intelligence之后，Danny Lange宣布离开Uber。\n\n谷歌放弃了自己造车，对谷歌来说，或许是一件好事，因为谷歌的强项不在造车，他的强项在系统的开发以及硬件的研发，这样可能会更加有利于谷歌集中精力搞研发。\n",
+					"settings":
+					{
+						"buffer_size": 1021,
+						"line_ending": "Windows",
+						"name": "Evernote: 《谷歌8年无人车项目遭遇急刹车，或不再自主造车》笔记",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 《英国政府发布人工智能报告，用 AI 创新优势提升英国国力》笔记\nnotebook: 14 人工智能\ntags:[\"自己写的东西\", \"z卓老师推荐文章总结\"]\n---\n\n> 本文主要讲了英国政府如何利用人工智能切实的改变英国人的生活。\n\n主要是以下三个部分：\n\n- 人工智能是什么，如何使用人工智能？\n- 人工智能可能对生产力带来什么好处？\n- 如何最好地管理使用人工智能所产生的道德和法律风险问题？\n\n### 1. 利用人工智能进行创新以及提高生产力\n\n- **帮助企业和个人更有效地利用资源，并简化与大数据集的交互方式**。比如说阿里的库存和配送网络，百度外卖的优化路线，这些都利用了人工智能。\n- **可以提高企业员工的工作效率**。朝着更加自动化的方向发展，比如Google Smart Reply这样的软件，可以根据之前对类似邮件的回复内容，自动起草回复的内容。\n- **减少大数据搜索的负担**。比如使用人工智能对大量的文件进行筛选。\n\n对英国目前的情况来看，使用人工智能来处理大数据的企业可以带来更多的收益，对机器人、数据和人工智能——有时也称为**“工业4.0”**——系统的影响进行更广泛的预测也会带来巨大的收益。\n\n> 麦肯锡调查表示，企业自己预计因为工业4.0而带来的收入增长为23%，生产力增长26%。人工智能在实现所有这种增长方面具有核心作用。\n\n1.1 政府使用人工智能\n\n- 通过预测和私人订制，可以使现有服务更有效率；\n- 辅助政府官员进行决策，减少失误率；\n- 决策透明；\n- 辅助政府了解公民，以便更好的为他们提供服务。\n\n与政府相关的两种用途：\n\n- 使用人工智能提供建议\n- 使用人工智能可能产生的法律影响\n\n1.2 劳动力市场\n\n机器学习、机器人技术、大数据以及自动化系统，这些技术可能会对服务业产生特别的影响，而服务业是英国就业最多的产业。\n\n> 35%的工作岗位可能会受自动化的影响，只有10%的岗位面临消失的风险，另外的25%，职位可能保持不变，但是所需要的技能可能会发生变化。\n\n**有证据表明，STEM（科学、技术、工程、数学）和数字技能的需求会不断增涨**。报告认为，技术变革可能导致特定工作技能更快地消失，人们更换工作的频率可能会更高。\n\n### 2 新的挑战\n\n1. 个人自由以及隐私\n2. 适应由人工智能进行决策的问责概念和机制\n\n\n人工智能技术还有可能从公用数据中推导出某类私人信息，如个人或和个人有关的其他人员（如朋友、亲戚或同事）的在线行为。该信息可能超出个人起初同意披露的范围。\n\n为了解决这个问题，许多专家和评论家建议，**确保问责的透明度是必要的：明确使用了哪些算法、哪些参数、哪些数据实现了什么目的将是必要的，这样才能确定人工智能技术是否被负责任地使用。**\n\n### 3 总结\n\n**重要的是先确定从何处着手，而不是考虑如何去实现。**",
+					"settings":
+					{
+						"buffer_size": 1218,
+						"line_ending": "Windows",
+						"name": "Evernote: 《英国政府发布人工智能报告，用 AI 创新优势提升英国国力》笔记",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 《机器学习先驱 Michael I. Jordan 清华演讲：更好的分布式机器学习》笔记\nnotebook: 14 人工智能\ntags:[\"自己写的东西\", \"z卓老师推荐文章总结\"]\n---\n\n> Jodan认为，统计学和计算学应该融合发展，并且会在明年发布他们的分布式机器学习框架Ray，集**统计推理、机器学习、大数据处理、计算**为一体，超越Spark。\n\n\n2015年，艾伦研究所发布了**[Semantic Scholar](https://www.semanticscholar.org/)**搜索服务，意图超越其他在线学术搜素引擎，目前的目标是**衡量一位科学家或者一所研究机构对之后研究的影响**。\n\n### Jordan 演讲核心：融合计算理论与统计理论\n\n- 在基础性的层面，统计学和计算科学之间有着突出的分歧，在计算科学中，数据点越多，意味着越复杂，需要通过算法或者硬件训练才能达到更好。而对于统计学来说，数据点越多，意味着推理越准确（**因为样本点变多了**）。\n- 在形式的层面，两者之间的概念不对称，相互之间缺乏融合。\n\nJodan教授认为，统计或者是机器学习需要更加深入的计算机科学系统和数据库接触，并不仅仅与具有人工智能的人。\n\n目前的深度学习涉及了监督学习以及大量的数据，这是一个很有吸引力的组合，但是却没有**神经**的感觉，尤其是需要对数据进行标注。\n\n而接近非监督式学习的一种方式就是将好的**特征**或者是**表示**的正式特征记下，然后与现实世界的其他假设联系在一起。Jodan认为，要把这些特征放进优化函数或者贝叶斯先验中优化整合。<font color=\"red\">意思是不是**用已知推未知？**</font>\n\n### 演讲内容\n\n- Jordan 从一个职位描述讲起，介绍大数据带来的挑战，引出演讲主题：“大数据”时代同时需要计算思维和推理思维。\n\n计算思维：提取、建模、扩展性、鲁棒性等；\n推理思维：思考数据背后的真实世界现象，考虑抽样模型，开发能从数据回馈到潜在现象的程序。\n\n- 隐私与数据分析，隐私与推理：差分隐私。\n- 计算与推理。推理质量与经典的计算资源，比如时间和空间，如何平衡？很难！\n- 计算与推理的机制和边界\n- Jordan 所在研究机构与合作伙伴\n- 大数据软件的增长情况\n- 介绍了Ray\n\n开发Ray的动力源于构建更好的分布式机器学习框架，目标是在单机上运行相同的代码和簇；对既有的代码进行最小化的修正，让其变得可分布；有效地支持大量的小任务；在任务间有效地分享数据。\n\n应用：商品检测、欺诈检测、认知助手、物联网。\n\n特点：低延迟、个性化和快速变化。\n\n结论：\n> 随着数据的增多，计算与推理应该在基础层面有更多的融合。",
+					"settings":
+					{
+						"buffer_size": 1164,
+						"line_ending": "Windows",
+						"name": "Evernote: 《机器学习先驱 Michael I. Jordan 清华演讲：更好的分布式机器学习》笔记",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 《白宫发布《人工智能、自动化和经济》报告，敦促特朗普政府确保美国 AI 领先地位》笔记\nnotebook: 14 人工智能\ntags:[\"自己写的东西\", \"z卓老师推荐文章总结\"]\n---\n\n> 这是一份关于**人工智能**、**自动化**、**经济**的报告。\n\n人工智能可以使一些需要人力劳动的任务实现自动化，这就意味着有许多人要失业。这份报告调查了AI的发展对经济的影响，提出**发挥AI优势，降低成本**的战略。\n\n经济影响主要有以下五个部分：\n\n1. 对总生产率增长的积极影响；\n2. 就业市场的需求技能发生变化，包括对更高层次技术技能的需求加大；\n3. 影响分布不均，对不同部门、薪资水平、教育水平、工作类型以及地区的影响不同；\n4. 随着一些职位的消失，新的职业产生，劳动力市场会被搅乱；\n5. 一些工人会短期失业，失业时间可能会更长，这取决于政策的回应。\n\nAI必然会对经济造成影响，虽然暂时还不知道何时以及对哪个领域造成冲击，因此，必须针对所有领域进行应对。\n\n主要的三个应对策略如下：\n\n1. 为AI的许多优势进行投资与开发；\n2. 针对未来的工作类型教育并培训国民；\n3. 为转型期间的工人提供帮助，并为确保广泛共享的经济增长赋予工人权利。\n\n报告详细介绍了这些策略的可行的操作。\n\n### 要点摘要\n\n#### 1 由AI驱动的领域\n\n要预测AI直接驱动的工作领域很难，因为AI不是一种单一的技术，而是一种特定任务和技术的集合。在不同行业影响不同。\n\n研究一致认为，受自动化影响最严重的工作主要集中在**低薪**、**低技能**和**教育水平较低**的劳动人群。这意味着这部分人的压力更大，并且加大这种不平等。长远来看，这种AI带来的经济效益有可能只是集中在小部分人的身上，这就导致**竞争减少**以及**深化财富不平等**。这取决于人工智能如何对工人和劳动市场进行影响，以及对这种影响的应对策略和制度选择。\n\n#### 2 应对策略\n\n1. 投资AI的益处。帮助美国处于创新的前沿，政府发挥重要作用，指定完善的竞争政策（初创企业和现有企业之间）。\n2. 针对未来工作可能需要的技能对美国人进行培训和教育。首先从儿童的早期教育开始，然后是高中毕业生。\n3. 帮助那些正在转型的工人。确保这些人能够找到最适合他们的岗位，增加工资、竞争力和工人议价能力，以及实现税收政策现代化和实施解决差异地域影响的战略，将是支持工人和解决与劳动力市场变化相关的重组问题的重要方面。\n",
+					"settings":
+					{
+						"buffer_size": 1056,
+						"line_ending": "Windows",
+						"name": "Evernote: 《白宫发布《人工智能、自动化和经济》报告，敦促特朗普政府确保美国 AI 领先地位》笔记",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 《云知声黄伟：未来谁能成为 AI 领域的 BAT ？》笔记\nnotebook: 14 人工智能\ntags:[\"自己写的东西\", \"z卓老师推荐文章总结\"]\n---\n\n> 黄伟认为，即使现在BAT在做AI，但是其他的企业仍然是有机会的，因为BAT很难做到与行业紧密结合。\n\n#### 1 人工智能：基础技术资源\n\n人工智能本身并不是产品，而是底层的技术，目前重要的是**如何用人工智能技术构建商业闭环**。人工智能离商品离市场是比较远的，过去的时候，没有数据，没有计算能力，所以人工智能处于低潮，过去的几十年里人工智能包括像神经网络并没有表现出真正的生命力。\n\n现在，人工智能之所以成功，是因为**大数据**。\n\n今天的芯片市场特别火热，因为芯片代表了运算能力，甚至能决定人工智能到底做到什么规模，到底能够走多远。\n\n#### 2 如何与产业结合\n\n很多时候技术指标达到一定高度是商业化落地的前提。\n\n**云端芯战略**\n\n- AI芯：智能家居。核心技术为：远讲识别，冷唤醒以及全语音自然交互。\n- AIUI：智能终端交互，主要是车载领域。\n- AI service：提供云端智能服务。\n\n人工智能技术与商业应该是良性循环。利用技术革新可以达到更好的商业效果，比如语音识别在口语测试方面，更好的技术可以提供更好的体验，体验越好用的人就越多，产生的利润就越多，而用的人越多就会产生越多的数据，这些数据可以促进技术的进一步革新。\n\n所以关键是如何构建一个技术和商业的闭环，同时也需要很多行业知识的融合。\n\n#### 什么样的AI公司能够成为未来的AI圈里的BAT\n\n**人工智能**和**IoT**。人工智能领域里面虽然BAT很重视AI，而且有了很强的人才团队，但是跟行业结合恰恰是 BAT 很难做到的，因为他们在上面。AI 和 IoT 是新的一波机会。\n\n\n\n\n\n\n\n",
+					"settings":
+					{
+						"buffer_size": 793,
+						"line_ending": "Windows",
+						"name": "Evernote: 《云知声黄伟：未来谁能成为 AI 领域的 BAT ？》笔记",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 《甩开这些“包袱”，让中国的人工智能事业飞起来！》笔记\nnotebook: 14 人工智能\ntags:[\"自己写的东西\", \"z卓老师推荐文章总结\"]\n---\n\n> 人工智能带来了一场革命，可以说这场革命比第一次工业革命造成的影响还要大，我国目前就处在这样一个十字路口，所以，我们需要往哪走？\n\n人工智能的强大之处在于它的自我学习、自我提升的能力。\n\n#### 目前我国人工智能面临的挑战\n\n1. **传统工业制造水平的低端化。**即使我们有了再好的算法，核心部件还是不得不依赖进口。在许多领域，如机器人领域，很多的核心部件都是进口的，这就大大提高了人工智能的成本。\n2. **高端的理论体系人才稀缺。**虽然我国的技术人才很多，但是高端的理论体系人才非常稀缺，我们缺少符合我国经济发展的人工智能的理论学家，我们需要在国家层面上对人工智能的发展进行指导。\n3. **人工智能的概念普及不到位，行业标准不规范**。很少有人能够回答**什么是人工智能**这个问题，甚至无法区分**人工智能的机器人与电子玩具之间的区别**！有的时候为了经费而申请项目，项目完成经费拿到，可能结束以后就会形成一个论文，然后再进行下一个项目申请经费，科研就会变成一个申请经费的手段。\n\n为什么它叫机器人？因为它可以取代人的体力劳动，也可以取代人的脑力劳动，没有生理的极限，可以无穷无尽地帮助人类不断地走向未来。\n\n#### 如何实现弯道超车？\n\n1. **坚持以市场需求和行业应用为导向，以利国利民为导向。**要把研发与实际应用联系起来，针对市场需求单独进行研发，这会迅速投向市场，并对国家经济产生重大影响。\n2. **坚持校企联合**。国家在高校上投入了大量的资源，如果能将企业的需求、资金以及市场导向与学校的科研成果紧密结合起来，一定可以结出丰硕的成果。相当于国家资源的二次利用。\n3. **集中突破基础设施领域**。竭尽全力解决我们的基础零部件以及关键零部件，尽快达到国际一流水平。\n4. **保护知识产权，激活市场人才的活力。**\n5. **军民融合、用活军中人才，挖掘民间天才，把生意交给企业，将力量留给国家**将军工体系中的人才和技术转为民用，挖掘民间的天才，惊喜有时候就在民间。",
+					"settings":
+					{
+						"buffer_size": 944,
+						"line_ending": "Windows",
+						"name": "Evernote: 《甩开这些“包袱”，让中国的人工智能事业飞起来！》笔记",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 《人脑仿生、机器学习、AR、区块链、数字孪生…2017来了，智能技术还远吗？》笔记\nnotebook: 14 人工智能\ntags:[\"自己写的东西\", \"z卓老师推荐文章总结\"]\n---\n\n> 在“数字经济与新动能”经济年会上，对**人脑仿生、机器学习、智能语音助手、机器视觉、AR、区块链、数字孪生和人工智能**等八个区域进行了解读。\n\n1.人脑仿生\n\n通过模仿人脑的结构，从神经元开始，重造人类大脑，希望能够实现通过人脑来控制机器。到2016年为止，人机接口方面已经可以使具有身体障碍的人士获得视觉和触觉的功能延伸。预计2017年，类脑芯片和类脑计算机会有小规模的商业化运行。\n\n2.机器学习\n\n机器学习有三个非常重要的范式：**硬件**、**算法**、**数据**。硬件是支撑的主干，算法是机器思考的灵魂，数据是机器运行的养料。\n目前机器学习最重要是大数据，没有大数据智能就无从谈起。针对特定领域，如医学领域，通过对大量数据的学习，可以提供精准化的诊疗手段。\n\n3.智能语音助手\n\n语音助手与**自然语言理解技术**息息相关。它可以帮助人类与机器之间更好的沟通。如微软的小娜、小冰，苹果的Siri等。未来语音助手有可能成为最重要的大平台，集成吃、喝、游、购、娱、出行等一系列功能。\n\n4.机器视觉\n\n目前的机器学习技术主要应用于**生产和生活**领域，比如无人驾驶汽车，利用雷达探测技术，探测周围环境，通过感知周围环境的变化为汽车提供重要且正确的决策。\n\n5.AR\n\n还记得pokemon go这款游戏吗？可惜大陆被禁了，当时这款游戏非常火，这就是AR（增强现实）技术，还有前一段时间手机QQ的传递火炬，也用了AR技术。不过最让我感到震惊的还是微软的HoloLens，太酷了。到2017年，AR将会超越VR，与可穿戴设备进行融合。\n\n6.区块链\n\n> 区块是把数据按照时间窗口记录下来，再把这些时间区块用链状进行连接。\n\n**区块链在存储的时候需要分布式的接入达成共识。**我们想篡改数据的时候，需要分布式的节点同时进行确认，有一个节点不确定我们无法篡改数据，这是区块链技术带来的最大好处，可信性非常高。\n\n所以区块链完全可以应用到**物联网技术**中，这就解决了物联网中设备之间的安全问题。\n\n7.数字孪生\n \n> 数字孪生是一种实体空间与虚拟空间的数字化、网络化、智能化的映射关系，在物理与数字两个空间同时记录个体全生命周期的运行轨迹。\n\n简单来说就是一种仿真预测技术，就像机器学习一样，通过对生命前期的仿真，获得用户的生活习惯，在生活领域，医疗和教育以及出行可以构建个人全生命周期的数字预测模型，这就是数字孪生技术在生活领域最重要的应用，**全生命周期的预测记录分析和决策支撑**。\n\n8.人工智能\n\n人工智能产业链主要由**基础设施，核心算法，应用平台（开源平台）和解决方案**等环节构成。上游到下游，下游到上游，中间到两端这三种模式正从不同路径共造人工智能产业生态。\n\n今年10月份，美国最重要的人工智能企业，包括谷歌、Facebook等企业形成人工智能产业联盟，他们游说国家进行人工智能立法工作，这是我们看到人工智能生态依托联盟协作最重要的发展趋势。",
+					"settings":
+					{
+						"buffer_size": 1345,
+						"line_ending": "Windows",
+						"name": "Evernote: 《人脑仿生、机器学习、AR、区块链、数字孪生…2017来了，智能技术还远吗？》笔记",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 《【NSR】中国人工智能迎来黄金时代，跟风发展快但缺乏重大突破》笔记\nnotebook: 14 人工智能\ntags:[\"自己写的东西\", \"z卓老师推荐文章总结\"]\n---\n\n人工智能的发展让世界惊讶，特别是Alpha Go事件。\n\n在中国的科学院，去年的时候，成立了**脑科学与科学技术卓越创新中心**，今年年初，我国推出了**中国大脑计划**，在以后的15年里开始关注脑图谱、神经学疾病和脑启发人工智能。\n\n#### 1 人与机器\n\n一个未来开发模型的方法是，模仿人类的大脑对人工智能进行研究。因为人脑总是十分高效的，但是人类的大脑又不是完全被开发的状态，所以我们要借鉴人类大脑的运行机制，而这种借鉴取决于我们对人类大脑的认识程度。\n\n人工智能长期以来的着眼点在于发展**在具有清晰规则定义的情况下，能够有较好表现的机器**，而不是在很少规则的情况。\n\n图灵对人工智能的定义包括：\n\n1. 图灵测试。如果人类无法分辨所提问题的答案是机器人回答的还是人类回答的，就证明这一机器拥有智能。\n2. 棋牌类的人机对战。\n3. 机器能像儿童一样学习，这是人工智能最有挑战性的方面。\n\n我们要研究应该是**开发一种类似于人脑的可以通过学习进行自我改变的一种人工神经网络**。\n\n#### 2 人工智能的本质\n\n人工智能需要在现实世界的场景下起作用，这就要求它的适应动态环境的能力需要非常强，这其中包括2个方面：\n\n1. 系统必须是可塑的，就像人类大脑；\n2. 机器必须能够与所在的社会或者自然环境进行交互。\n\n机器可以通过观看大量的游戏来学习这种游戏规则，但是机器无法将一种游戏的规则迁移到另一个游戏中，遇到另一个游戏，机器就必须重新开始学，这与人脑不同，人类可以将一个游戏的规则迁移到另一个中，这就是人脑的高明之处。\n\n所以人工智能的本质应该表现的像人类一样，可以自适应的改变自己以适应周围的环境。人们总是拿机器与人类年龄做对比，经常说这台机器已经达到4岁小孩的水平，可是就连一岁的小孩都能进行自我认知和学习，却没有一台机器能做到这些！\n\n#### 3 黄金时代\n\n目前是**神经科学**和**人工智能**的黄金时代，\n\n目前在脑启发智能的一个里程碑式的突破是：**并行脑模拟器**，它可以模仿人脑的多个区域，并且这些区域可以相互协调协调执行各种认知任务。\n\n中科院发布了Linked Brain Data知识引擎，致力于在不同层面提取、集成和分析在神经科学、心理学以及认知科学研究方面的大脑知识。\n\n#### 4 挑战\n\n我们的科学家有一个很狭隘的观点，他们通常会把自己的注意力放在自己的专业上，很少会对他们所研究之外的领域感兴趣。如果有一个平台可以让来自不同学科的专家互相交流，这样最新的进展就会让各个领域都知晓，他们就可以从其他领域获得启发和灵感。\n\n#### 5 我国人工智能与国外相比\n\n我国的问题在于，人们更倾向于跟随西方世界的潮流，我们应该在我们认为有前景的、但是不那么潮流或者说是在短时间内并没有明显的用处的领域进行努力，比如**认知人工智能领域**。\n\n很显然这样是很难的，这与中国科学文化急功近利的心态有关系，不过这可能还跟中国的发展阶段有关，中国是从很低的发展水平开始的，一直在追赶，随着整体水平的提高，中国的研究者就有更多的自由去追求他们的兴趣。\n",
+					"settings":
+					{
+						"buffer_size": 1394,
+						"line_ending": "Windows",
+						"name": "Evernote: 《【NSR】中国人工智能迎来黄金时代，跟风发展快但缺乏重大突破》笔记",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 《Hardware Accelerated Convolutional Neural Networks for Synthetic Vision Systems》\nnotebook: 14 人工智能\ntags:[\"自己写的东西\", \"L李嘉锋老师推荐文章\"]\n---\n\n# 《用于合成视觉系统的硬件加速卷积神经网络》\n\n## Abstract\n\n在本文中，我们提出了一个可扩展的硬件架构，实现大规模的卷积神经网络以及最先进的多层人工视觉系统。这个系统是全数字化的，并且是一个模块化的视觉引擎，可以对目标进行实时检测、识别以及对一个巨型图像进行分割。我们对FPGA和ASIC进行了比较，显示了在定制硬件实现中的一种加速。\n\n## 1 INTRODUCTION\n\n微型机器人、无人机、成像传感器网络、无线手机以及其他嵌入式视觉系统都需要成本低，并且能够快速识别和分类在某个场景中的目标的合成视觉系统。几乎所有最近的合成视觉算法针对常见的识别问题都会使用一个或多个层的滤波器进行分等级的报告图像特征的位置、角度以及大小的一定程度的不变性。例如SIFT算法，哺乳动物视觉系统的仿生算法建模以及采用多层神经网络的深层体系结构。具有多层特征提取以及学习参数的合成视觉算法表现的非常好。当特定的目标是已知的先验时，学习提供显著的表现提升。卷积神经网络是一种可以嵌入到所有特征中的合成视觉结构。卷积神经网络是一种具有多层卷积滤波器以及非线性的前馈神经网络。\n\n在这篇文章中，我们为基于大型并行滤波器组的大型多层合成视觉系统提出了一个可扩展的硬件架构。这个硬件也可以用于对最近的视觉算法，如SIFT、HMAX等进行加速。这个系统是一个数据流视觉引擎，可以在巨型像素图像作为流水线流的时候实时的进行检测、识别以及定位。这个系统的目的是**对任意多目标进行分类而消耗却比台式机或笔记本低数十倍**（低于10W）。\n\n## 2 CONVOLUTIONAL NEURAL NETWORKS(卷积神经网络)\n\n卷积神经网络是一种特殊类型的神经网络，利用数据在图像中的位置来减少处理大型图像所需的参数数量。图1是一个卷积神经网络的例子。\n![卷积神经网络](http://p1.bpimg.com/567571/70c261404e013837.png)\nIn this figure we report a network used for generic object recognition of N classes.例如一个网络已经可以成功的被用于在大量的应用程序中分辨不同的目标。\n\nConvNets作为前端合成视觉系统执行对象分类任务来说，有以下**优点**：首先，他们对局部区域进行卷积：在卷积矩阵上分享权重，这样大型的图片就可以减少处理量。这是非常重要的，因为网络中权重的数量不成正比的输入图像。其次，空间采样/池是用来在非线性计算的每一步分层减少输入数据的大小。从一个大的输入中提取基本元素，复制一个小的、局部的可接受区域，而对结果进行下采样降低了失真和规模大小的影响。结合这些特征产生了更高次序的特征，这会有更高的转变、尺度以及畸变不变性，这就是一个高等级的哺乳动物视觉系统的典型特征。\n\nCNN一个重要的方面是，所有需要的参数都可以从将要建模的数据中获得。例如在图一所示，通过在标记的数据集中采用随机梯度下降发，可以同时学到所有来自滤波器组、池化功能以及来自分类器的权重。相比于手绘特征提取器来说，ConvNets更加紧凑，更加适合于一般用途的识别任务。\n\n## 3 SYSTEM IMPLEMENTATION（系统实施）\n\n关于可伸缩卷积神经网络的全数字编码的硬件实现已经开发并实现。一些小的版本已经被实施，然而以前并无法扩展。我们相信，FPGA目前和ASIC技术的全数字实现是获得软件兼容的对象识别网络的最简单的方法，易于安装和操作，以降低功耗和提供较高的数值精度。整个系统是由HDL语言编写的，并且针对ASIC或者FPGA进行合成。这个设计是一个自定义的单指令多数据流（SIMD）基于硬件加速的32位CP处理器去定制卷积神经网络的操作。这是操作是高度优化的，并且利用了硬件的并行化。\n\n我们的第一次实施是在Xilinx Virtex-4 SX35 FPGA板上，这是一个外接了QDR-SRAM内存\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+					"settings":
+					{
+						"buffer_size": 1858,
+						"line_ending": "Windows",
+						"name": "Evernote: 《Hardware Accelerated Convolutional Neural Networks for Synthetic Vision Systems》",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 《菲尔兹奖得主芒福德为三维人脸识别和配准献上神助攻》笔记\nnotebook: 14 人工智能\ntags:[\"自己写的东西\", \"z卓老师推荐文章总结\"]\n---\n\n对于人类经过科学积累而建立的抽象理论体系，机器学习仍然无法与人类匹敌，比如说**三维人脸识别**以及**三维人脸曲面配准**这两个问题。\n\n人脸识别问题是给定一张人脸，然后识别出他的身份。人脸配准是给出两张人脸图像，找出它们之间的映射关系。三维人脸识别问题可以通过机器学习的方法达到比人类更加精准的地步，然而对于三维人脸曲面配准的问题，机器学习无法直接奏效。人类对于两张图片之间的特征点的对应关系有很强的直觉，可以容易标注，但是对于曲面间的映射关系直觉就没那么强了，所以在数据准备阶段就无法实施了。对于这个问题来说，微分几何方法似乎更加有效。\n\n本文主要讲了如何用模空间的理论对两个三维人脸进行配准。\n\n作者的最后结论是，**对于三维人脸曲面识别、配准、表情分析而言，微分几何方法和机器学习方法，各有千秋，相辅相成！**。\n\n",
+					"settings":
+					{
+						"buffer_size": 456,
+						"line_ending": "Windows",
+						"name": "Evernote: 《菲尔兹奖得主芒福德为三维人脸识别和配准献上神助攻》笔记",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 《深度 | 变革的开始，深度学习将如何改变医疗成像领域？》笔记\nnotebook: 14 人工智能\ntags:[\"自己写的东西\", \"z卓老师推荐文章总结\"]\n---\n\n> 有时间了再看，因为这是关于医学领域的文章。\n\n",
+					"settings":
+					{
+						"buffer_size": 121,
+						"line_ending": "Windows",
+						"name": "Evernote: 《深度 | 变革的开始，深度学习将如何改变医疗成像领域？》笔记",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "---\ntitle: 解惑笔记\nnotebook: 14 人工智能\ntags:[\"自己写的东西\"]\n---\n\n**1 过拟合**\n\n> 过拟合.机器学习中的过拟合过拟合指的是referstoa模型对于训练数据拟合程度过当的情况。 当某个模型过度的学习训练数据中的细节和噪音，以至于模型在新的数据上表现很差，我们称过拟合发生了。\n\n**2 RE-ID**\n\n> RE-ID。Person Re-identification，即行人重识别。具体看：[Person Re-identification Overview ](https://app.yinxiang.com/shard/s70/nl/14488760/8d5bd069-fcd8-4cd7-b88a-fbeb0e4ba845)以及[Person Re-identification](https://app.yinxiang.com/shard/s70/nl/14488760/fb6167ab-c3e7-411c-a6e7-69ced2d87355)\n\n**3 PPT末尾的Q & A**\n\n> Question and Answer，即问答环节。\n\n**4 fine-tuning**\n\ncaffe的fine-tuning是什么意思?\n\n> 把已经训练过的模型应用到新的数据集上。主要优点是相比于从scratch训练能在更短时间内达到相同的效果。\n\n**例如：**\n\n1. fine-tuning：先拿CNN在cifar100上训练，然后仅仅修改最后一层softmax的输出节点数（100改为10），再放到cifar10上训练。\n2. train from scratch：相同结构的CNN直接用cifar10训练。\n\n**结果：**\n\n第一种情况可能只要1000次迭代就能达到60%的accuracy，第二种情况可能需要4000次才能达到60%的accuracy。\n\n在caffe官网上有fine-tuning的例子，解释更详细。\n\n**5 弱监督=半监督**\n\n弱监督与半监督是一个东西。具体见：[什么是弱监督](https://app.yinxiang.com/shard/s70/nl/14488760/aa80faa7-4422-445d-bf62-7d3b40126a3d)\n\n> 半监督学习(Semi-Supervised Learning，SSL)是模式识别和机器学习领域研究的重点问题，是监督学习与无监督学习相结合的一种学习方法。它主要考虑如何利用少量的标注样本和大量的未标注样本进行训练和分类的问题。主要分为半监督分类，半监督回归，半监督聚类和半监督降维算法。\n\n**6 聚类**\n\n> 聚类是把相似的对象通过静态分类的方法分成不同的组别或者更多的子集（subset），这样让在同一个子集中的成员对象都有相似的一些属性，常见的包括在坐标系中更加短的空间距离等。\n\n\n\n\n\n\n",
+					"settings":
+					{
+						"buffer_size": 1229,
+						"line_ending": "Windows",
+						"name": "Evernote: 解惑笔记",
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "evernote",
+				"selected_items":
+				[
+					[
+						"evernote",
+						"Evernote: New empty note"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"preview",
+						"Markdown HTML Preview"
+					],
+					[
+						"markdown",
+						"Markdown HTML Preview"
+					],
+					[
+						"",
+						"Build: Cancel"
+					],
+					[
+						"eve",
+						"Evernote: List recent notes"
+					],
+					[
+						"evernote:",
+						"Evernote: New empty note"
+					],
+					[
+						"evernote:new",
+						"Evernote: New empty note"
+					],
+					[
+						"ever",
+						"Evernote: New empty note"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"autofile",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"omnimarkup",
+						"Preferences: OmniMarkupPreviewer Settings – User"
+					],
+					[
+						"key binding",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"evernote:new empty note",
+						"Evernote: New empty note"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"verilog",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"i",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 378.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Administrator/AppData/Local/Temp/_tc/Lesson14/uartverilog/my_uart_top.v",
+				"/C/Users/Administrator/AppData/Local/Temp/_tc/Lesson14/uartverilog/speed_select.v",
+				"/C/Users/Administrator/AppData/Local/Temp/_tc/Lesson14/uartverilog/my_uart_rx.v",
+				"/C/Users/Administrator/AppData/Local/Temp/_tc/Lesson14/uartverilog/my_uart_tx.v",
+				"/F/05 实验室/05 卓老师的推荐文章/2017年1月1日_深度，变革的开始，深度学习将如何改变医疗成像领域？/医学.enmd",
+				"/D/Win7库文件/下载/single_port_ram_v/single_port_ram.v",
+				"/F/05 实验室/05 卓老师的推荐文章/2017年1月5日_格灵深瞳邓亚峰：如何让机器看得更真更远？/《格灵深瞳邓亚峰：如何让机器看得更真更远？》笔记.markdown",
+				"/F/05 实验室/05 卓老师的推荐文章/2016年12月31日_菲尔兹奖得主芒福德为三维人脸识别和配准献上神助攻/《菲尔兹奖得主芒福德为三维人脸识别和配准献上神助攻》笔记.markdown",
+				"/F/05 实验室/05 卓老师的推荐文章/2016年12月31日_人工智能三愿/人工智能三愿.markdown",
+				"/F/05 实验室/05 卓老师的推荐文章/2016年12月28日_【NSR】中国人工智能迎来黄金时代，跟风发展快但缺乏重大突破/【NSR】中国人工智能迎来黄金时代，跟风发展快但缺乏重大突破.markdown",
+				"/D/Win7桌面/mm.markdown",
+				"/F/05 实验室/05 卓老师的推荐文章/2016年12月25日/人脑仿生、机器学习、AR、区块链、数字孪生…2017来了，智能技术还远吗？.markdown",
+				"/F/05 实验室/05 卓老师的推荐文章/2016年12月24日_甩开这些“包袱”，让中国的人工智能事业飞起来！/《甩开这些“包袱”，让中国的人工智能事业飞起来！》笔记.markdown",
+				"/F/05 实验室/05 卓老师的推荐文章/2016年12月23日_云知声黄伟：未来谁能成为 AI 领域的 BAT ？/《云知声黄伟：未来谁能成为 AI 领域的 BAT ？》笔记.markdown",
+				"/F/05 实验室/05 卓老师的推荐文章/2016年12月23日_白宫发布《人工智能、自动化和经济》报告，敦促特朗普政府确保美国 AI 领先地位/白宫发布《人工智能、自动化和经济》报告笔记.markdown",
+				"/F/05 实验室/05 卓老师的推荐文章/2016年12月21日_ 更好的分布式机器学习/《更好的分布式机器学习》笔记.markdown",
+				"/D/Win7桌面/1/版本更新提要.TXT",
+				"/F/05 实验室/05 卓老师的推荐文章/2016年12月19日_英国政府发布人工智能报告，用 AI 创新优势提升英国国力/英国政府发布人工智能报告，用 AI 创新优势提升英国国力.markdown",
+				"/F/05 实验室/05 卓老师的推荐文章/2016年12月14日_2016年生命科学领域的八大突破性进展/2016年生命科学领域的八大突破性进展.markdown",
+				"/F/05 实验室/05 卓老师的推荐文章/2016年12月13日_耶鲁神经科学扫描大脑判断人类智力，区分准确率达99%/耶鲁神经科学扫描大脑判断人类智力，区分准确率达99%.markdown",
+				"/F/05 实验室/05 卓老师的推荐文章/2016年12月13日_谷歌8年无人车项目遭遇急刹车，或不再自主造车/谷歌8年无人车项目遭遇急刹车，或不再自主造车.markdown",
+				"/D/Win7桌面/Corel VideoStudio.txt",
+				"/F/02 软件安装包/会声会影/序列号.txt",
+				"/C/Users/mcj/AppData/Local/Temp/360zip$Temp/360$0/jb51.net.txt",
+				"/C/Users/mcj/AppData/Local/Temp/360zip$Temp/360$1/jb51.net.txt",
+				"/D/Program Files/Corel/Corel VideoStudio X8/Setup/{A22A80C4-F237-4B5A-825F-0731971ECBE6}/新建文本文档.txt",
+				"/F/06 Propaganda Department/13 视频/会声会影模版/有用的会声会影模版/R008另类风格展示片头(仿AE)/说明.txt",
+				"/F/05 实验室/05 卓老师的推荐文章/2016年12月11日_/- 通过收购 Geometric Intelligence 建立了他们的 AI 实验室.mdown",
+				"/D/Program Files/Sublime Text 3.3126x64/Data/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/D/Program Files/Sublime Text 3.3126x64/Data/Packages/User/MarkdownPreview.sublime-settings",
+				"/D/Program Files/Sublime Text 3.3126x64/Data/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/D/Program Files/Sublime Text 3.3126x64/Data/Packages/Package Control/Package Control.sublime-settings",
+				"/D/Program Files/Sublime Text 3.3126x64/Data/Packages/User/MarkdownTOC.sublime-settings",
+				"/D/Program Files/Sublime Text 3.3126x64/Data/Packages/MarkdownTOC/MarkdownTOC.sublime-settings",
+				"/D/Program Files/Sublime Text 3.3126x64/Data/Packages/User/Evernote.sublime-settings",
+				"/C/Users/mcj/AppData/Local/Temp/_tc/PC Chrono/使用更新说明.txt",
+				"/C/Users/mcj/AppData/Local/Temp/360zip$Temp/360$0/程序说明.txt",
+				"/D/Win7桌面/测试.md",
+				"/D/Win7桌面/测试.mdown",
+				"/C/Users/mcj/AppData/Local/Temp/360zip$Temp/360$2/冰点文库下载.txt",
+				"/C/Users/mcj/AppData/Local/Temp/360zip$Temp/360$3/Fish-v318/kpdf/江苏高速公路接线工程环境影响报告书.txt",
+				"/D/Win7库文件/我的文档/Sublime document/test.v",
+				"/D/Program Files/shadowsock/pac.txt",
+				"/D/Win7库文件/我的文档/Sublime document/备忘录",
+				"/D/Win7库文件/我的文档/Sublime document/备忘录.v",
+				"/D/ceshi.mdown",
+				"/D/Program Files/Sublime Text 3.3126x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Win7桌面/ceshi.html",
+				"/D/Program Files/Sublime Text 3.3126x64/Data/Packages/AutoFileName/autofilename.sublime-settings",
+				"/D/Program Files/Sublime Text 3.3126x64/Data/Packages/OmniMarkupPreviewer/Default (Windows).sublime-keymap",
+				"/D/Program Files/Sublime Text 3.3126x64/Data/Packages/User/OmniMarkupPreviewer.sublime-settings",
+				"/G/我的图片/0052.gif",
+				"/D/Program Files/Sublime Text 3.3126x64/Data/Packages/User/Preferences.sublime-settings",
+				"/F/05 实验室/10 李嘉锋老师/05 新版周报/第11周/二分频.v",
+				"/E/Hardware/ISE/ISE13.3.txt",
+				"/D/Win7桌面/新建文本文档 (2).txt",
+				"/D/Win7桌面/新建文本文档.txt",
+				"/D/Program Files (x86)/XMindX7/readme.txt",
+				"/F/07 学习相关/02 计算机相关/05 mindmanager/中文模版90个/模板汉化说明.txt",
+				"/D/report_data2.txt",
+				"/D/Win7桌面/xmind-7-V3.6.1 中文破解版/序列号.txt",
+				"/H/其他/Readme.txt",
+				"/E/eula.1028.txt",
+				"/F/05 实验室/20 其他/其他/课件/邮箱.txt",
+				"/F/05 实验室/10 李嘉锋老师/培训资料/Xilinx ISE14.4（ISE、Vivado、Vivado HLS）全部License/readme.txt",
+				"/E/eula.1031.txt",
+				"/D/Win7桌面/新建文件夹 (4)/[说明].txt"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"rst_n",
+					"toc",
+					"black"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"rst"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/Win7库文件/我的文档/Sublime document/练习.v",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1080,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										649,
+										648
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Verilog/Verilog.tmLanguage",
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 360.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1459,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										361,
+										361
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Verilog/Verilog.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5692,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										760,
+										760
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "503ecec1-e08f-49de-9b6a-69e108f647c4",
+									"$evernote_modified": 5,
+									"$evernote_title": "硬件培训_实验1_嵌入式环境搭建",
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 120.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2629,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1573,
+										1573
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "20fc096b-a143-4f3b-9ee9-08d6881fe845",
+									"$evernote_modified": 87,
+									"$evernote_title": "硬件培训_实验2_串口通信",
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 820.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/F/05 实验室/top.v",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1305,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										292,
+										292
+									]
+								],
+								"settings":
+								{
+									"in_converting": true,
+									"origin_encoding": "GB2312",
+									"syntax": "Packages/Verilog/Verilog.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 780.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 61,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										59,
+										59
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "8393e0f6-328a-4903-a4ea-a880f053bd13",
+									"$evernote_modified": 15,
+									"$evernote_title": "学习FPGA笔记",
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1021,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										68,
+										44
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "4dc73aff-aac1-415a-87c6-e107afe386ce",
+									"$evernote_modified": 1,
+									"$evernote_title": "《谷歌8年无人车项目遭遇急刹车，或不再自主造车》笔记",
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1218,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1068,
+										1068
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "f5fdabf2-42b1-41ac-81a6-947194f272d9",
+									"$evernote_modified": 980,
+									"$evernote_title": "《英国政府发布人工智能报告，用 AI 创新优势提升英国国力》笔记",
+									"clone_numbers": 0,
+									"history_list_is_closing": true,
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1037.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 17,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1164,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										107,
+										0
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "34ae767b-46e3-431f-8227-4714ba9a7bb7",
+									"$evernote_modified": 942,
+									"$evernote_title": "《机器学习先驱 Michael I. Jordan 清华演讲：更好的分布式机器学习》笔记",
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 16,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1056,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										106,
+										0
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "ad9385a2-737d-4f18-ae59-8830cccdc8c9",
+									"$evernote_modified": 1107,
+									"$evernote_title": "《白宫发布《人工智能、自动化和经济》报告，敦促特朗普政府确保美国 AI 领先地位》笔记",
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 793,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										88,
+										64
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "f3ea7d01-eaa5-4dca-ae18-b4c20ab8732f",
+									"$evernote_modified": 922,
+									"$evernote_title": "《云知声黄伟：未来谁能成为 AI 领域的 BAT ？》笔记",
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 944,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										158,
+										158
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "93ae6748-9215-4b6f-9c07-c92c1e372fd6",
+									"$evernote_modified": 0,
+									"$evernote_title": "《甩开这些“包袱”，让中国的人工智能事业飞起来！》笔记",
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 11.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1345,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										180,
+										180
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "cc8d3d02-27e9-41a9-8c44-0cf36b41a0c6",
+									"$evernote_modified": 1209,
+									"$evernote_title": "《人脑仿生、机器学习、AR、区块链、数字孪生…2017来了，智能技术还远吗？》笔记",
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1394,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										127,
+										127
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "afd2daf9-6ccd-4131-a355-a10e43d5dd71",
+									"$evernote_modified": 0,
+									"$evernote_title": "《【NSR】中国人工智能迎来黄金时代，跟风发展快但缺乏重大突破》笔记",
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1858,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										353,
+										353
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "f6777e1f-c792-414b-9d51-f65462379c9e",
+									"$evernote_modified": 646,
+									"$evernote_title": "《Hardware Accelerated Convolutional Neural Networks for Synthetic Vision Systems》",
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 456,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										91,
+										0
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "4047b15e-abbb-472d-94b6-60a69a4f0acb",
+									"$evernote_modified": 558,
+									"$evernote_title": "《菲尔兹奖得主芒福德为三维人脸识别和配准献上神助攻》笔记",
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 121,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										119,
+										96
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "e7c01289-3854-4722-96d6-135c9763c2f1",
+									"$evernote_modified": 50,
+									"$evernote_title": "《深度 | 变革的开始，深度学习将如何改变医疗成像领域？》笔记",
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 17,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1229,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										53,
+										0
+									]
+								],
+								"settings":
+								{
+									"$evernote": true,
+									"$evernote_guid": "9091ac98-534a-4f0f-afc8-c283a6aba664",
+									"$evernote_modified": 2,
+									"$evernote_title": "解惑笔记",
+									"clone_numbers": 0,
+									"history_list_is_closing": true,
+									"syntax": "Packages/Evernote/Evernote.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 35.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,793,213,194,1172",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ever",
+						"D:\\Program Files\\Sublime Text 3.3126x64\\Data\\Packages\\User\\Evernote.sublime-settings"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				]
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 233.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
